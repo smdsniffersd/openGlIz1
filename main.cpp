@@ -1,7 +1,6 @@
 ﻿#include "Shape.h"
 #include "vertex.h"
 #include "glad/glad.h"
-#include "vetexShader.h"
 #include "vertexGradient.h"
 #include "fragmentShader.h"
 #include "fragmentGradient.h"
